@@ -7,6 +7,6 @@ ipywidgets
 scikit-learn
 IPython
 pandas
-matplotlib.pyplot
+matplotlib
 seaborn
 wordcloud
