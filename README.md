@@ -1,4 +1,8 @@
 # C964-Capstone
+Interactive Notebook hosted on Binder can be viewed here: 
+https://mybinder.org/v2/gh/rickyheng19/C964-Capstone/HEAD?urlpath=voila%2Frender%2Fapp.ipynb
+
+
 Machine Learning Capstone project
 1.	Project topic and description: Gaming News writes articles on video games, and needs a way to show similar or related game news the user might be interested in after reading an article. This project will create a recommendation page Gaming News can implement into their website.
 
