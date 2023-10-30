@@ -4,9 +4,9 @@ ipyvolume
 scipy
 voila
 ipywidgets
-scikit-learn
+sklearn
 IPython
 pandas
-matplotlib
+matplotlib.pyplot
 seaborn
 wordcloud
