@@ -9,7 +9,7 @@ Machine Learning Capstone project
 
 2.	Project purpose and goals: To create a page that will show Gaming News users other games that are similar or related to the article they are reading.
 
-3.	Descriptive method: We’ll use cosine simularity matrix unsupervised learning algorithm to find groups of similar video games related to the article being read.
+3.	Descriptive method: We'll compute the cosine similarity between video games based on their features to identify groups of games that are similar to the article being read.
   
 4.	Predictive or prescriptive method:  We're designing a machine learning model that can recommend video games based on similarities. By leveraging a cosine similarity matrix, our machine learning model will compare features within our video game database to predict and recommend titles that exhibit high similarity scores to a user's previously enjoyed games, providing a tailored list of game suggestions.
 
