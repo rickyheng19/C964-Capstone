@@ -1,0 +1,12 @@
+bqplot
+ipympl
+ipyvolume
+scipy
+voila
+ipywidgets
+scikit-learn
+IPython
+pandas
+matplotlib
+seaborn
+wordcloud
