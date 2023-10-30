@@ -1,5 +1,5 @@
 # C964-Capstone
-Interactive Notebook hosted on Binder can be viewed here: 
+Interactive Jupyter Notebook hosted on Binder can be viewed here: 
 
 https://mybinder.org/v2/gh/rickyheng19/C964-Capstone/HEAD?urlpath=voila%2Frender%2Fapp.ipynb
 
