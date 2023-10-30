@@ -13,7 +13,7 @@ Machine Learning Capstone project
   
 4.	Predictive or prescriptive method:  We're designing a machine learning model that can recommend video games based on similarities. By leveraging a cosine similarity matrix, our machine learning model will compare features within our video game database to predict and recommend titles that exhibit high similarity scores to a user's previously enjoyed games, providing a tailored list of game suggestions.
 
-Objectives
+## Objectives
 
 Design and develop your fully functional data product that addresses your identified business problem or organizational need from part A. Include each of the following attributes, as they are the minimum required elements for the product:
 
