@@ -4,7 +4,7 @@ ipyvolume
 scipy
 voila
 ipywidgets
-sklearn
+scikit-learn
 IPython
 pandas
 matplotlib.pyplot
