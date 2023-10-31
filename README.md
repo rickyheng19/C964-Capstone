@@ -2,8 +2,11 @@
 Interactive Jupyter Notebook hosted on Binder can be made following these instructions: 
 
 o	Go to this website: https://notebooks.gesis.org/binder/
+
 o	Insert this link into the GitHub repository link box: https://github.com/rickyheng19/C964-Capstone
+
 o	In the Path to notebook file box, change it to URL and paste in the following: voila/render/app.ipynb
+
 o	Press launch to launch the app. It will take a couple minutes to load if it’s the first time building the image.
 
 Machine Learning Capstone project
